@@ -16,7 +16,7 @@ export default async function Home({
         <>
             <section className="pink_container">
                 <h1 className="heading">
-                    Escribe a tu manera, <br /> sobre lo que te apasiona
+                    Escribe a tu manera <br /> sobre lo que te apasiona
                 </h1>
                 <p className="sub-heading !max-w-3xl">
                     Crea un blog atractivo y original facilmente.

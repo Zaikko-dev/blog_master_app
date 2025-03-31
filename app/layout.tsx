@@ -66,8 +66,8 @@ const workSans = localFont({
 });
 
 export const metadata: Metadata = {
-    title: 'YC Directory',
-    description: 'Pitch, vote and Grow',
+    title: 'BlogMaster',
+    description: 'Pagina web para la publicacion de blogs',
 };
 
 export default function RootLayout({
